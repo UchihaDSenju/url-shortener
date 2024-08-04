@@ -1,0 +1,8 @@
+# Ignore node Modules
+node_modules
+
+# Ignore files related to API
+.env
+
+# Ignore your text/ logs
+.txt
